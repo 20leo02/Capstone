@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c88e420f-b512-4f48-8b35-59382bd07a99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pics/pause.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subtitles/tems.vtt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vids/diamondplatnumz.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vids/elgrandetoto.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vids/libianca.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vids/tems.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vids/tyla.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employment-subtitles.vtt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employment-graph.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employment-movie.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/function.js" beforeDir="false" afterPath="$PROJECT_DIR$/function.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subtitles/tems.vtt" beforeDir="false" afterPath="$PROJECT_DIR$/subtitles.vtt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vids/diamondplatnumz.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vids/elgrandetoto.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vids/libianca.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vids/tems.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vids/tyla.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/website.html" beforeDir="false" afterPath="$PROJECT_DIR$/website.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/agubata/Documents/Coding Project (Spring 2024)/Capstone",
+    "last_opened_file_path": "/Users/agubata/Documents/Coding Project (Spring 2024)/Capstone/subtitles",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -65,6 +65,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/subtitles" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -92,7 +93,7 @@
       <workItem from="1708496385931" duration="182000" />
       <workItem from="1713146213255" duration="24000" />
       <workItem from="1713146275575" duration="9547000" />
-      <workItem from="1713739139906" duration="2407000" />
+      <workItem from="1713739139906" duration="3844000" />
     </task>
     <servers />
   </component>
