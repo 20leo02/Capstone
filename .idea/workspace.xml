@@ -6,16 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c88e420f-b512-4f48-8b35-59382bd07a99" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employment-graph.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employment-movie.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/function.js" beforeDir="false" afterPath="$PROJECT_DIR$/function.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subtitles/tems.vtt" beforeDir="false" afterPath="$PROJECT_DIR$/subtitles.vtt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vids/diamondplatnumz.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vids/elgrandetoto.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vids/libianca.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vids/tems.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vids/tyla.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/website.html" beforeDir="false" afterPath="$PROJECT_DIR$/website.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subtitles.vtt" beforeDir="false" afterPath="$PROJECT_DIR$/subtitles.vtt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +84,7 @@
       <workItem from="1708496385931" duration="182000" />
       <workItem from="1713146213255" duration="24000" />
       <workItem from="1713146275575" duration="9547000" />
-      <workItem from="1713739139906" duration="3844000" />
+      <workItem from="1713739139906" duration="9909000" />
     </task>
     <servers />
   </component>
