@@ -1,5 +1,5 @@
 html,body {
-    font-family: arial;
+    font-family: Arial;
     font-size: 1.1em;
 }
 
@@ -12,6 +12,10 @@ html,body {
     font-weight: bold;
     font-size: 2em;
     margin: 1em 0;
+}
+
+img {
+    max-width: 500px;
 }
 
 /*.heading2 {*/
